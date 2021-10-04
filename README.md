@@ -9,19 +9,18 @@ Ctrl+q -> Exit Fullscreen & Exit AHK script
 
 Notes:
 
-
 0.
 Original code was written by `Aaron C` on a synthe forum here: 
 https://www.sythe.org/threads/osrs-true-fullscreen-mode-hide-title-bar-and-taskbar-ahk-script-free/
 
 There was a request to expand the script capabilities and I did a little digging on .ahk scripts to make it happen!
-​
+
 1.
 You can read more about WinSet here :
 https://www.autohotkey.com/docs/commands/WinSet.htm
 
 I had to check it out to realize how to bring back the title bar!
-​
+
 2.
 If you are experimenting with ahk scripts sometimes this command helps(On Windows):​
 
