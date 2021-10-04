@@ -8,7 +8,8 @@ ESC -> Exit Fullscreen
 Ctrl+q -> Exit Fullscreen & Exit AHK script
 
 Notes:
-​
+
+
 0.
 Original code was written by `Aaron C` on a synthe forum here: 
 https://www.sythe.org/threads/osrs-true-fullscreen-mode-hide-title-bar-and-taskbar-ahk-script-free/
